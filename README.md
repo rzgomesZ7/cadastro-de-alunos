@@ -57,6 +57,10 @@ Situação: Aprovado
 
 
 agradecimentos ao mano ector, me ajudou dando um norte e explicando algumas paradinhas, forte abraço irmão!
-##Alunos: 
+
+
+## Alunos: 
 Ricardo misael
 Tales matoso
+Davi Carvalho
+Henry Clark
