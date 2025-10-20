@@ -54,3 +54,6 @@ Aluno: ricas
 Matrícula: 12345
 Nota média: 6.83
 Situação: Aprovado
+
+
+agradecimentos ao mano ector, me ajudou dando um norte e explicando algumas paradinhas, forte abraço irmão!
