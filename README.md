@@ -51,8 +51,6 @@ Digite a 2ª nota: 8.0
 Digite a 3ª nota: 5.0
 
 Aluno: ricas
-
-agradecimentos ao mano ector, me ajudou dando um norte e explicando algumas paradinhas, forte abraço irmão!
 Matrícula: 12345
 Nota média: 6.83
 Situação: Aprovado
